@@ -21,6 +21,4 @@ I'm deeply passionate about the future of technology and its potential to transf
 ## Let's Connect!
 Feel free to explore my repositories, contribute, or just say hi! I'm always open to collaboration and learning from fellow tech enthusiasts.
 
-✨ **"The best way to predict the future is to create it."** ✨
-
 Thank you for visiting my profile! 😊
