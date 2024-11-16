@@ -1,7 +1,3 @@
-Here’s a GitHub profile bio tailored for you based on your expertise and interests:  
-
----
-
 ### **About Me**  
 👋 **Hi there!** I’m Nitin , a passionate tech enthusiast and developer currently pursuing a dual degree:  
 - 🎓 **B.Tech in Computer Science and Engineering (Offline)**  
@@ -21,7 +17,3 @@ Here’s a GitHub profile bio tailored for you based on your expertise and inter
 
 💡 **Why I Code**  
 Driven by the potential of technology to solve real-world problems, I’m particularly inspired by the limitless possibilities of **AI** in shaping our future.  
-
----
-
-Feel free to update your GitHub bio with this, or let me know if you'd like more personalized tweaks! 😊
