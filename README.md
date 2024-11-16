@@ -1,24 +1,27 @@
+Here’s a GitHub profile bio tailored for you based on your expertise and interests:  
 
-# Hello, World! 😶‍🌫️
-Welcome to my GitHub profile! I'm thrilled to have you here. 
+---
 
-## About Me
-👋 Hi, I'm Nitin , a passionate and ambitious 2nd-year B.Tech student specializing in **Computer Science and Engineering (CSE)** with a focus on **Artificial Intelligence and Data Science**. 🚀
+### **About Me**  
+👋 **Hi there!** I’m Nitin , a passionate tech enthusiast and developer currently pursuing a dual degree:  
+- 🎓 **B.Tech in Computer Science and Engineering (Offline)**  
+- 🎓 **BS in Data Science and Applications from IIT Madras**  
 
-## My Interests
-- 🌐 **Web3 and Blockchain***: Exploring the decentralized future.
-- 💻 **Programming Languages**: 
-  - C/C++
-  - Python
-  - Java
-  - HTML & CSS
-- 🌟 **Frameworks** : Proficient in Django.
-- 📚 **Currently Learning**: Java and Data Structures & Algorithms (DSA).
+🌟 **What I Do**  
+- Proficient in **C/C++**, **Java**, and **web development** (with Django framework).  
+- Actively learning **Data Structures and Algorithms (DSA)** in Java.  
+- Highly interested in **Artificial Intelligence**, especially in building recognition models.  
 
-## My Vision
-I'm deeply passionate about the future of technology and its potential to transform our world. My journey in tech is driven by curiosity, innovation, and a desire to make a meaningful impact.
+📂 **GitHub Contributions**  
+- Sharing my journey with detailed practice notes and assignments in my [**DSA-java-practice**](https://github.com/nitinnkr99/DSA-java-practice) repository.  
 
-## Let's Connect!
-Feel free to explore my repositories, contribute, or just say hi! I'm always open to collaboration and learning from fellow tech enthusiasts.
+🌱 **What I’m Currently Learning**  
+- Advanced DSA concepts in Java.  
+- Expanding my knowledge in **AI and Machine Learning**.  
 
-Thank you for visiting my profile! 😊
+💡 **Why I Code**  
+Driven by the potential of technology to solve real-world problems, I’m particularly inspired by the limitless possibilities of **AI** in shaping our future.  
+
+---
+
+Feel free to update your GitHub bio with this, or let me know if you'd like more personalized tweaks! 😊
