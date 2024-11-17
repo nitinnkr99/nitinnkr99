@@ -1,6 +1,6 @@
 ### **About Me**  
 👋 **Hi there!** I’m Nitin , a passionate tech enthusiast and developer currently pursuing a dual degree:  
-- 🎓 **B.Tech in Computer Science and Engineering (Offline)**  
+- 🎓 **B.Tech in Computer Science and Engineering (Offline) from MDU Rohtak**  
 - 🎓 **BS in Data Science and Applications from IIT Madras**  
 
 🌟 **What I Do**  
