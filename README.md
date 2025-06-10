@@ -1,8 +1,8 @@
 ### **About Me**  
 👋 **Hi there!** I’m Nitin , a tech enthusiast and a student as of now.
-currently i'm pursuing 
-- 🎓 **B.Tech in Computer Science and Engineering from MDU Rohtak (2023-2027)**  
-- 🎓 **BS in Data Science and Applications from IIT Madras (2024-2028)**  
+> currently i'm pursuing 
+> - 🎓 **B.Tech in Computer Science and Engineering from MDU Rohtak  (2023-2027)**  
+> - 🎓 **BS in Data Science and Applications from IIT Madras  (2024-2028)**  
 
 🌟 **What I Do**  
 - I study Maths (Linear Algebra & Calculus) and Statistics .
@@ -19,3 +19,5 @@ currently i'm pursuing
 
 💡 **Why I Code**  
 I like to make things & the idea of making life easy and fun with programs and computers drives me to code a game , WebApp or something that can just help in someway. 
+
+> Feel free to connect or collaborate—I’d love to hear from you!
