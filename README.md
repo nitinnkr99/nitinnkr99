@@ -1,19 +1,21 @@
 ### **About Me**  
-👋 **Hi there!** I’m Nitin , a passionate tech enthusiast and developer currently pursuing a dual degree:  
-- 🎓 **B.Tech in Computer Science and Engineering from MDU Rohtak**  
-- 🎓 **BS in Data Science and Applications from IIT Madras**  
+👋 **Hi there!** I’m Nitin , a tech enthusiast and a student as of now.
+currently i'm pursuing 
+- 🎓 **B.Tech in Computer Science and Engineering from MDU Rohtak (2023-2027)**  
+- 🎓 **BS in Data Science and Applications from IIT Madras (2024-2028)**  
 
 🌟 **What I Do**  
-- Proficient in **C/C++**, **Java**, and **web development** (with Django framework).  
-- Actively learning **Data Structures and Algorithms (DSA)** in Java.  
-- Highly interested in **Artificial Intelligence**, especially in building recognition models.  
+- I study Maths (Linear Algebra & Calculus) and Statistics .
+- Expanding my knowledge in **AI and Machine Learning**, especially in building recognition models.  
 
 📂 **GitHub Contributions**  
-- Sharing my journey with detailed practice notes and assignments in my [**DSA-java-practice**](https://github.com/nitinnkr99/DSA-java-practice) repository.  
+- I'm enrolled in **CS50P** and it's work is present on my GitHub
+- Sharing my journey with detailed practice notes and assignments in my [**DSA-java-practice**](https://github.com/nitinnkr99/DSA-java-practice) repository.
 
 🌱 **What I’m Currently Learning**  
-- Advanced DSA concepts in Java.  
-- Expanding my knowledge in **AI and Machine Learning**.  
+- I make projects with python and currently improving my skills in python libraries like : **Matplotlib , pandas , numpy , seaborn**.
+- I want to automate things using scripts and python and currently learning more about automating tasks.  
+- currently I'm working on Game Dev with **Lua , LOVE2D and Unity** to make 2d game of my dream.   
 
 💡 **Why I Code**  
-Driven by the potential of technology to solve real-world problems, I’m particularly inspired by the limitless possibilities of **AI** in shaping our future.  
+I like to make things & the idea of making life easy and fun with programs and computers drives me to code a game , WebApp or something that can just help in someway. 
